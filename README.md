@@ -91,14 +91,6 @@ Predict if a diabetic patient will be readmitted to the hospital within 30 days 
 - seaborn / matplotlib (for visualization)
 - jupyter
 
-You can install dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
-(You may need to create the `requirements.txt` by exporting your environment.)
-
 ## 📚 References
 
 - [UCI Diabetes Dataset](https://archive.ics.uci.edu/dataset/296)
