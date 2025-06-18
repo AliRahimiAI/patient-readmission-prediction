@@ -47,17 +47,24 @@ Predict if a diabetic patient will be readmitted to the hospital within 30 days 
    - Confusion Matrix
    - ROC AUC Curve
 
-## 📈 Model Performance
-
-> ⚠️ Add actual values here after evaluating the model in your notebook.
+## 📈 RandomForest Model Performance
 
 | Metric        | Value     |
 |---------------|-----------|
-| Accuracy      |  `xx%`    |
-| Precision     |  `xx%`    |
-| Recall        |  `xx%`    |
-| F1 Score      |  `xx`     |
-| AUC-ROC       |  `xx`     |
+| Accuracy      |  `59.7%`    |
+| Precision     |  `17.4%`    |
+| Recall        |  `64.3%`    |
+| F1 Score      |  `27.4`     |
+| AUC-ROC       |  `61.7`     |
+
+## 📈 NN Model Performance
+
+| Metric        | Value     |
+|---------------|-----------|
+| Accuracy      |  `79.2%`    |
+| Precision     |  `22.7%`    |
+| Recall        |  `31.5%`    |
+| F1 Score      |  `26.4`     |
 
 ## 🧪 How to Run
 
